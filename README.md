@@ -74,9 +74,9 @@ Minha curiosidade me levou a desenvolver uma excelente capacidade de:
 
 - **Telefone:** (61) 98654-4409  
 - **Email:** [adlermurga@gmail.com](mailto:adlermurga@gmail.com)  
-- **Instagram:** [@adler_murga](https://instagram.com/adler_murga)
-- **Linkedin:** [@adler_murga](https://instagram.com/adler_murga)
-- **Github:** [@adler_murga](https://instagram.com/adler_murga)
-- **Githubpages:** [@adler_murga](https://instagram.com/adler_murga)
+- **Instagram:** [@adler_murga](https://instagram.com/adler_murga)  
+- **LinkedIn:** [Adler Murga](https://www.linkedin.com/in/adler-m-804605364/)  
+- **GitHub:** [AdlerMrF](https://github.com/AdlerMrF)  
+- **GitHub Pages (Currículo):** [adlermrf.github.io/Curriculo_Adler](https://adlermrf.github.io/Curriculo_Adler/)
 
 ---
